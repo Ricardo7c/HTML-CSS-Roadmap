@@ -1,14 +1,10 @@
 # HTML e CSS
 
----
-
 ## **Módulo 1: Introdução ao HTML**
 
 - O que é HTML  
 - Comentários  
 - Anatomia das Tags  
-
----
 
 ## **Módulo 2: Estrutura e Sintaxe Básica**
 
@@ -16,8 +12,6 @@
 - Fluxo HTML  
 - Aninhamento de Tags  
 - Caracteres reservados  
-
----
 
 ## **Módulo 3: Atributos e Propriedades**
 
@@ -28,21 +22,15 @@
 - Class  
 - Data  
 
----
-
 ## **Módulo 4: Estilização Básica**
 
 - Style  
 - Semântica  
 
----
-
 ## **Módulo 5: Textos e Títulos**
 
 - Títulos e parágrafos  
 - Formatação básica de textos  
-
----
 
 ## **Módulo 6: Elementos Multimídia e Interativos**
 
@@ -51,14 +39,10 @@
 - Hiperlink  
 - Imagens  
 
----
-
 ## **Módulo 7: Estruturação de Páginas**
 
 - Anatomia de um documento HTML  
 - Desenhando uma página web  
-
----
 
 ## **Módulo 8: Tags Semânticas**
 
@@ -66,13 +50,9 @@
 - Tags Nav, Section e Article  
 - Tags Genéricas Div e Span  
 
----
-
 ## **Módulo 9: Prática**
 
 - Criando meu primeiro projeto  
-
----
 
 ## **Módulo 10: Caminhos e Referências**
 
@@ -81,5 +61,3 @@
 - Caminhos relativos à mesma pasta  
 - Caminhos relativos em pastas diferentes  
 - Caminhos absolutos e relativos em um servidor  
-
----
